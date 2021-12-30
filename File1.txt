@@ -6,3 +6,9 @@ new things
 new line on repo change 
 
 change for WI6 on local master to test normal by team on remote bug 3
+
+change- for WI6 on local master to test normal
+
+change on local master gor WI7 
+
+
